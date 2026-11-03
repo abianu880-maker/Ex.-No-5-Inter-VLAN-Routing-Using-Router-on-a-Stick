@@ -96,10 +96,11 @@ ________________________________________
 PC IP settings<br>
 
 •	Successful ping between PCs in different VLANs after routing<br>
-<img width="1920" height="1080" alt="Screenshot (622)" src="https://github.com/user-attachments/assets/25192a93-8ae0-4009-89fc-5eaf3298f684" />
+
+<img width="1920" height="1080" alt="Screenshot (623)" src="https://github.com/user-attachments/assets/a43839be-32de-458d-829c-a4aa0956b8e5" />
 
 •	Successful ping between PCs in the same VLAN<br>
-<img width="1920" height="1080" alt="Screenshot (623)" src="https://github.com/user-attachments/assets/a43839be-32de-458d-829c-a4aa0956b8e5" />
+<img width="1920" height="1080" alt="Screenshot (622)" src="https://github.com/user-attachments/assets/25192a93-8ae0-4009-89fc-5eaf3298f684" />
 
 ________________________________________
 # Result
